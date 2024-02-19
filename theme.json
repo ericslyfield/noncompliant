@@ -1,0 +1,28 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"settings": {
+		"appearanceTools": true,
+		"color": {
+			"defaultPalette": false,
+			"custom": true,
+			"palette": [
+				{
+					"color": "#ffff",
+					"name": "White",
+					"slug": "white"
+				},
+				{
+					"color": "#195641",
+					"name": "Deep Green",
+					"slug": "deep-green"
+				},
+				{
+					"color": "#195641",
+					"name": "Deep Green",
+					"slug": "deep-green"
+				}
+			]
+		}		
+	}
+}

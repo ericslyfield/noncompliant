@@ -1,2 +1,5 @@
-# noncompliant
-A wordpresss theme
+# **NONCOMPLIANT**
+
+---
+
+**NONCOMPLIANT** is a hybrid-themed Wordpress boilerplate.
